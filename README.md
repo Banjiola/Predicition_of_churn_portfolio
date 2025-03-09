@@ -1,4 +1,4 @@
-# Predicition_of_churn_portfolio
+# Predicition of churn
 In this project, we aim to predict customer churn using various features such as payment methods, contract type, and whether a customer streams TV or movies. This task is crucial for companies to identify potential 'churners' and take actions to retain them.
 
 ## Dataset
