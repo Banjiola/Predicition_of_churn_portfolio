@@ -61,10 +61,6 @@ Predictive modelling project to:
 | Visualization      | Matplotlib |  
 
 ---
-  
-
-
----
 
 ## 🤖 Modeling  
 ### Performance Comparison  
@@ -80,9 +76,7 @@ Predictive modelling project to:
 ---
 
 ## 🧾 Conclusion  
-Achieved 73% recall in identifying churners, enabling:  
-- 22% improvement over baseline  
-- $3.8M estimated annual savings (at 5% intervention success)  
+Our experiments indicate that logistic regression is the highest-performing model, achieving an average recall of 73%, with Support Vector Machines ranking second. 
 
 ---
 
